@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-sass-bootstrap",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Import Bootstrap into ember cli project",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "",
+  "repository": "https://github.com/selvaa89/ember-cli-sass-bootstrap.git",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "selvaa89",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.2",
